@@ -25,15 +25,24 @@ main{
     height: 100vh;
 }
 
-section#telefone {
+    section#telefone {
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
-    transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px;
-    background: url('..//imagens/frame-iphone.png')no-repeat;
+    transform: translate(-30%, -60%);
+    height: 500px;
+    width: 500px;
+    background: url('../imagens/frame-iphone3.png') no-repeat;
      
      
+}
+
+iframe#tela{
+    position: relative;
+    top: 59px;
+    left: 20px;
+    width: 185px;
+    height: 329px;
+
 }
 
